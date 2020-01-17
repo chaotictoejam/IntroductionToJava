@@ -1,4 +1,4 @@
-package com.chaotictoejam.partthree;
+package com.chaotictoejam.part3;
 
 /**
  * Class to illustrate the use of methods and simple math functions

@@ -1,4 +1,4 @@
-package com.chaotictoejam.parttwo;
+package com.chaotictoejam.part2;
 
 public class LogicErrorExample {
     public static void main(String args[]){

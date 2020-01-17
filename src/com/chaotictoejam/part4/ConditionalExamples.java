@@ -1,4 +1,4 @@
-package com.chaotictoejam.partfour;
+package com.chaotictoejam.part4;
 
 public class ConditionalExamples {
     /*

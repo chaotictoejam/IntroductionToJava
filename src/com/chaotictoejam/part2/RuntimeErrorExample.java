@@ -1,4 +1,4 @@
-package com.chaotictoejam.parttwo;
+package com.chaotictoejam.part2;
 /**
  * Class to illustrate Runtime Errors
  * Will throw ArithmaticException

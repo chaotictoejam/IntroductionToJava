@@ -1,4 +1,4 @@
-package com.chaotictoejam.parttwo;
+package com.chaotictoejam.part2;
 /**
  * Class to illustrate Syntax Errors
  * Keyword void is missing before main

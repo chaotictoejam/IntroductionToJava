@@ -1,4 +1,4 @@
-package com.chaotictoejam.partone;
+package com.chaotictoejam.part1;
 /**
  * Joanne Skiles
  * A simple Java program that prints to the console.
